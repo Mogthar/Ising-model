@@ -1,0 +1,6 @@
+add temperature slider
+add nearest neighbour slider
+add a way of reinitializing with different grid size
+add a way of controlling the camera in game
+
+have a way of changing the interaction sign
