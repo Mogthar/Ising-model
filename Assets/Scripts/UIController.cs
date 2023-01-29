@@ -25,6 +25,7 @@ public class UIController : MonoBehaviour
         temperatureSlider.value = simulation.temperature;
         temperatureSlider.minValue = tempSliderEndPoints.x;
         temperatureSlider.maxValue = tempSliderEndPoints.y;
+        temperatureSlider.value = simulation.temperature;
     }
 
     // Update is called once per frame

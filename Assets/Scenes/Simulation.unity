@@ -1219,8 +1219,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16a65436fee99094190b95a935ee4e1b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  temperature: 0
-  _latticeSize: 7
+  temperature: 1
+  nearestNeighbour: 2
+  interaction: 0
+  boundaryCondition: 1
+  _latticeSize: 10
   _spinPrefab: {fileID: 3367238828955760478, guid: 467cd26fadc44704d9365df45cf51c11, type: 3}
 --- !u!4 &2021830096
 Transform:
